@@ -4,3 +4,4 @@ target
 .classpath
 .response_cache
 dependency-reduced-pom.xml
+/.idea/
